@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Cytometry In R
+
+Location: Amsterdam, the Netherlands
+
+My Favorite Fluorophore/Metal-Isotope: PE
+
+Previous Coding Experience: course by coursera
+
+What I Hope to Get From This Course: to learn how to analyse flowdata with R
